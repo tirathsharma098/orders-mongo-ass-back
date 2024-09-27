@@ -12,7 +12,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone ---
+   git clone git@github.com:tirathsharma098/orders-mongo-ass-back.git
 
 2. npm install
 
